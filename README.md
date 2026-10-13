@@ -25,14 +25,12 @@ An AI-powered Android application that allows users to interact with an intellig
 
 🎥 Demo Video
 
-(https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screen_Recording_AI_Chatbot.mp4)
+[![Video Alt](https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screen_Recording_AI_Chatbot.mp4)
 
 🚀 Installation and Setup
 
 1. Clone this repository:
-   
    git clone https://github.com/mahadebrana01/AI_Chatbot_Application.git
-   
 3. Open the project in Android Studio.
 4. Wait for Gradle synchronization to complete.
 5. Configure your Groq API key securely.
@@ -42,7 +40,6 @@ An AI-powered Android application that allows users to interact with an intellig
 🔑 API Configuration
 
 This project uses the Groq API to generate chatbot responses.
-
 1. Visit the "Groq Console" (https://console.groq.com/).
 2. Create an API key.
 3. Configure the key according to your application's implementation.
