@@ -21,10 +21,7 @@ An AI-powered Android application that allows users to interact with an intellig
 
 📸 Screenshots
 
-💬 Chat Interface
-
-"AI Chatbot Chat Screen" (screenshots/chatbot.png)
-
+![Image Alt](https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screenshot%20AI%20Chatbot.png)
 🎥 Demo Video
 
 "▶️ Watch the AI Chatbot Demo" (PASTE_YOUR_VIDEO_LINK_HERE)
