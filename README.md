@@ -23,10 +23,8 @@ An AI-powered Android application that allows users to interact with an intellig
 
 ![Image Alt](https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screenshot%20AI%20Chatbot.png)
 
-🎥 Demo Video
+🎥 Screen Recording
 
-![Watch the Video Alt]
-(https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screen_Recording_AI_Chatbot.mp4)
 
 
 https://github.com/user-attachments/assets/a1db4377-0b25-47cc-a474-03abf0c69d8e
