@@ -21,7 +21,7 @@ An AI-powered Android application that allows users to interact with an intellig
 
 📸 Screenshots
 
-![Image Alt](https://github.com/mahadebrana01/AI_Chatbot_Application/blob/main/Screenshot%20AI%20Chatbot.png)
+<img width="1917" height="1020" alt="Screenshot AI Chatbot" src="https://github.com/user-attachments/assets/0d87e620-05e4-4fe0-b9bc-6dd134316f22" />
 
 🎥 Screen Recording
 
